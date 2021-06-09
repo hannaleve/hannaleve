@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   
 </p>
 
-<h3 align="center">📚 my space 📚</h3>
+<h3 align="center"> 🌱 my space  🌱</h3>
 <p align="center">
 <a href="https://hanna97.tistory.com/"> <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://hanna97.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
   <a href="mailto:wbtmgkssk8@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wbtmgkssk8@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
