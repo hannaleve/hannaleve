@@ -1,7 +1,5 @@
 ### Hi there 👋
-  <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=ff69b4&height=300&section=header&text=hanna%20&fontSize=90" />
-</div>
+
 
 <!--
 **hannaleve/hannaleve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
